@@ -31,12 +31,12 @@ If you are new to Github and open source then, visit [here.](https://towardsdata
 
 SR No   | Project | Author  
 --- | --- | ---
-1 | [Hello World](https://github.com/Python-World/python-mini-projects/tree/master/projects/Hello) | done
-2 | [JSON to CSV](https://github.com/Python-World/python-mini-projects/tree/master/projects/Convert_JSON_to_CSV)| done
-3 | [Random Password Generator](https://github.com/Python-World/python-mini-projects/tree/master/projects/Random_password_generator) | done
+1 | [Hello World](https://github.com/Python-World/python-mini-projects/tree/master/projects/Hello) |2022-04-20
+2 | [JSON to CSV](https://github.com/Python-World/python-mini-projects/tree/master/projects/Convert_JSON_to_CSV)|2022-04-20
+3 | [Random Password Generator](https://github.com/Python-World/python-mini-projects/tree/master/projects/Random_password_generator) |2022-04-20
 4 | [Instagram Profile Info](https://github.com/Python-World/python-mini-projects/tree/master/projects/Instagram_profile) | not working lib problem
 5 | [Search string in Files](https://github.com/Python-World/python-mini-projects/tree/master/projects/String_search_from_multiple_files) | [Mitesh](https://github.com/Mitesh2499)
-6 | [Fetch links from Webpage](https://github.com/Python-World/python-mini-projects/tree/master/projects/All_links_from_given_webpage) | [Mitesh](https://github.com/Mitesh2499) & [Michael Mba](https://github.com/mikeysan)
+6 | [Fetch links from Webpage](https://github.com/Python-World/python-mini-projects/tree/master/projects/All_links_from_given_webpage) |2022-04-20
 7 | [Todo App With Flask](https://github.com/Python-World/python-mini-projects/tree/master/projects/Todo_app) | [Mitesh](https://github.com/Mitesh2499)
 8 | [Add Watermark on Images](https://github.com/Python-World/python-mini-projects/tree/master/projects/Image_watermark) | [Mitesh](https://github.com/Mitesh2499)
 9 | [WishList App Using Django](https://github.com/Python-World/python-mini-projects/tree/master/projects/WishList) | [Ravi Chavare](https://github.com/chavarera)
