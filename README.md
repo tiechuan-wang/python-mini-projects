@@ -63,7 +63,7 @@ SR No   | Project | Author
 30 | [Decimal to binary and vice versa](https://github.com/Python-World/python-mini-projects/tree/master/projects/Decimal_to_binary_convertor_and_vice_versa) | [Alan Anaya](https://github.com/alananayaa/)
 31 | [Cli Based Todo Application](https://github.com/Python-World/python-mini-projects/tree/master/projects/Cli_todo) | [Audrey Yang](https://github.com/audrey-yang)
 32 | [Currency Convertor cli app](https://github.com/Python-World/python-mini-projects/tree/master/projects/Currency_converter) | [github-of-wone](https://github.com/github-of-wone/)
-33 | [Stopwatch Application](https://github.com/Python-World/python-mini-projects/tree/master/projects/Create_a_simple_stopwatch) | [Gaodong](https://github.com/xlgd)
+33 | [Stopwatch Application](https://github.com/Python-World/python-mini-projects/tree/master/projects/Create_a_simple_stopwatch) | 2022-04-21
 34 | [CLI Proxy Tester](https://github.com/Python-World/python-mini-projects/tree/master/projects/cli_proxy_tester) | [Ingo Kleiber](https://github.com/IngoKl)
 35 | [XML to JSON file Convertor](https://github.com/Python-World/python-mini-projects/tree/master/projects/Convert_XML_to_JSON) | [John Kirtley](https://github.com/johnkirtley)
 36 | [Compress file and folders](https://github.com/Python-World/python-mini-projects/tree/master/projects/Write_script_to_compress_folder_and_files) | [Gaodong](https://github.com/xlgd)
