@@ -116,7 +116,7 @@ SR No   | Project | Author
 83 | [Customer Loan Repayment Prediction](https://github.com/Python-World/python-mini-projects/tree/master/Notebooks/Customer_loan_repayment_problem)| [ART](https://github.com/Tomyzon1728)
 84 | [Generate Wordcloud from Wikipedia Article](https://github.com/Python-World/python-mini-projects/tree/master/projects/Wikipedia_search_wordcloud)| [Naman Shah](https://github.com/namanshah01)
 85 | [Number Guessing Game](https://github.com/Python-World/python-mini-projects/tree/master/projects/Number_guessing_game)| [Javokhirbek](https://github.com/leader2one)
-86 | [Convert JPEG to PNG](https://github.com/Python-World/python-mini-projects/tree/master/projects/Convert_JPEG_to_PNG)| [AnuragGupta](https://github.com/AnuragGupta806)
+86 | [Convert JPEG to PNG](https://github.com/Python-World/python-mini-projects/tree/master/projects/Convert_JPEG_to_PNG)|2022-04-21
 87 | [Movie Information Scrapper](https://github.com/Python-World/python-mini-projects/tree/master/projects/Movie%20Information%20Scraper)| [Anandha Krishnan Aji](https://github.com/anandhakrishnanaji)
 88 | [Fetch HTTP Status Code](https://github.com/Python-World/python-mini-projects/tree/master/projects/Fetch%20HTTP%20status%20code)| [AkshataJ96](https://github.com/AkshataJ96)
 89 | [Check Leap Year](https://github.com/Python-World/python-mini-projects/tree/master/projects/Leap_Year_Checker)| [Hariom Vyas](https://github.com/Hariom1509)
