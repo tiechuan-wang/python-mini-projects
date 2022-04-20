@@ -95,8 +95,8 @@ If you are new to Github and open source then, visit [here.](https://towardsdata
 
 SR No   | Project | Author  
 --- | --- | ---
-1 | [Hello World](https://github.com/Python-World/python-mini-projects/tree/master/projects/Hello) | [Ravi Chavare](https://github.com/chavarera)
-2 | [JSON to CSV](https://github.com/Python-World/python-mini-projects/tree/master/projects/Convert_JSON_to_CSV)| [Murilo Pagliuso](https://github.com/DarkCeptor44)
+1 | [Hello World](https://github.com/Python-World/python-mini-projects/tree/master/projects/Hello) | done
+2 | [JSON to CSV](https://github.com/Python-World/python-mini-projects/tree/master/projects/Convert_JSON_to_CSV)| done
 3 | [Random Password Generator](https://github.com/Python-World/python-mini-projects/tree/master/projects/Random_password_generator) | [Mitesh](https://github.com/Mitesh2499)
 4 | [Instagram Profile Info](https://github.com/Python-World/python-mini-projects/tree/master/projects/Instagram_profile) | [Ravi Chavare](https://github.com/chavarera)
 5 | [Search string in Files](https://github.com/Python-World/python-mini-projects/tree/master/projects/String_search_from_multiple_files) | [Mitesh](https://github.com/Mitesh2499)
