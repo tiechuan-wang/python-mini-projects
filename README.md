@@ -33,8 +33,8 @@ SR No   | Project | Author
 --- | --- | ---
 1 | [Hello World](https://github.com/Python-World/python-mini-projects/tree/master/projects/Hello) | done
 2 | [JSON to CSV](https://github.com/Python-World/python-mini-projects/tree/master/projects/Convert_JSON_to_CSV)| done
-3 | [Random Password Generator](https://github.com/Python-World/python-mini-projects/tree/master/projects/Random_password_generator) | [Mitesh](https://github.com/Mitesh2499)
-4 | [Instagram Profile Info](https://github.com/Python-World/python-mini-projects/tree/master/projects/Instagram_profile) | [Ravi Chavare](https://github.com/chavarera)
+3 | [Random Password Generator](https://github.com/Python-World/python-mini-projects/tree/master/projects/Random_password_generator) | done
+4 | [Instagram Profile Info](https://github.com/Python-World/python-mini-projects/tree/master/projects/Instagram_profile) | not working lib problem
 5 | [Search string in Files](https://github.com/Python-World/python-mini-projects/tree/master/projects/String_search_from_multiple_files) | [Mitesh](https://github.com/Mitesh2499)
 6 | [Fetch links from Webpage](https://github.com/Python-World/python-mini-projects/tree/master/projects/All_links_from_given_webpage) | [Mitesh](https://github.com/Mitesh2499) & [Michael Mba](https://github.com/mikeysan)
 7 | [Todo App With Flask](https://github.com/Python-World/python-mini-projects/tree/master/projects/Todo_app) | [Mitesh](https://github.com/Mitesh2499)
