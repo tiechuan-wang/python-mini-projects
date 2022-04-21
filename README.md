@@ -38,7 +38,7 @@ SR No   | Project | Author
 5 | [Search string in Files](https://github.com/Python-World/python-mini-projects/tree/master/projects/String_search_from_multiple_files) |2022-04-21
 6 | [Fetch links from Webpage](https://github.com/Python-World/python-mini-projects/tree/master/projects/All_links_from_given_webpage) |2022-04-20
 7 | [Todo App With Flask](https://github.com/Python-World/python-mini-projects/tree/master/projects/Todo_app) | [Mitesh](https://github.com/Mitesh2499)
-8 | [Add Watermark on Images](https://github.com/Python-World/python-mini-projects/tree/master/projects/Image_watermark) | [Mitesh](https://github.com/Mitesh2499)
+8 | [Add Watermark on Images](https://github.com/Python-World/python-mini-projects/tree/master/projects/Image_watermark) |2022-04-21
 9 | [WishList App Using Django](https://github.com/Python-World/python-mini-projects/tree/master/projects/WishList) | [Ravi Chavare](https://github.com/chavarera)
 10 | [Split Folders into Subfolders](https://github.com/Python-World/python-mini-projects/tree/master/projects/Split_folder_into_subfolders) | [Ravi Chavare](https://github.com/chavarera)
 11 | [Download bulk images](https://github.com/Python-World/python-mini-projects/tree/master/projects/Download_images_from_website) | [Mitesh](https://github.com/Mitesh2499)
