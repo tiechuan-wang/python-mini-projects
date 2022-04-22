@@ -83,7 +83,7 @@ SR No   | Project | Author
 50 | [Language Translator using googletrans](https://github.com/Python-World/python-mini-projects/tree/master/projects/Language_translator) | [Ashiqur Rahman Tusher](https://github.com/ashikurt77)
 51 | [Split video using timeperiod](https://github.com/Python-World/python-mini-projects/tree/master/projects/Split_a_video_file_by_given_time_period) | [Chathura Nimesh](https://github.com/kana800/)
 52 | [Fetch unique words from file](https://github.com/Python-World/python-mini-projects/tree/master/projects/Unique_words_in_a_file) | [Rakshit Puri](https://github.com/skate1512)
-53 | [Speech to text converter](https://github.com/Python-World/python-mini-projects/tree/master/projects/Speech_to_text) | [Paulo Henrique](https://github.com/Python-World/python-mini-projects/tree/master/projects/Speech%20to%20text)
+53 | [Speech to text converter](https://github.com/Python-World/python-mini-projects/tree/master/projects/Speech_to_text) | ERROR pip install pyaudio
 54 | [Set Random Wallpaper](https://github.com/Python-World/python-mini-projects/tree/master/projects/Write_a_script_to_download_a_random_image_from_unsplash_and_set_it_as_wallpaper) | [Chathura Nimesh](https://github.com/kana800/)
 55 | [Find Dominant color from image](https://github.com/Python-World/python-mini-projects/tree/master/projects/Dominant_color) | [Mitesh](https://github.com/Mitesh2499)
 56 | [Ascii art](https://github.com/Python-World/python-mini-projects/tree/master/projects/Ascii_art) | [Shiny Akash](https://github.com/Shiny-Akash)
