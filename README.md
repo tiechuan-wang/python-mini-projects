@@ -72,7 +72,7 @@ SR No   | Project | Author
 39 | [Move files to alphabetically arranged folders](https://github.com/Python-World/python-mini-projects/tree/master/projects/Write_script_to_move_files_into_alphabetically_ordered_folder) | [Chathura Nimesh](https://github.com/kana800/)
 40 | [Scrape Youtube video comment](https://github.com/Python-World/python-mini-projects/tree/master/projects/Web_scraping_a_youtube_comment) | [Saicharan67](https://github.com/Saicharan67)
 41 | [Website Summerization](https://github.com/Python-World/python-mini-projects/tree/master/projects/Web_page_summation) | [Believe Ohiozua](https://github.com/believeohiozua)
-42 | [Text To speech(mp3)](https://github.com/Python-World/python-mini-projects/tree/master/projects/Text_to_speech) | [Sergej Dikun](https://github.com/Serhazor)
+42 | [Text To speech(mp3)](https://github.com/Python-World/python-mini-projects/tree/master/projects/Text_to_speech) | 2022-04-22
 43 | [Image format conversion](https://github.com/Python-World/python-mini-projects/tree/master/projects/convert_Imgs) | 2022-04-22
 44 | [Save random article from wikipedia](https://github.com/Python-World/python-mini-projects/tree/master/projects/Random_Wikipedia_Article) | [Rakshit Puri](https://github.com/skate1512)
 45 | [Check website connectivity](https://github.com/Python-World/python-mini-projects/tree/master/projects/Check_website_connectivity) | [Shiv Thakur](https://github.com/ShivSt)
