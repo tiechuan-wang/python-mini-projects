@@ -45,7 +45,7 @@ SR No   | Project | Author
 12 | [Random word from file](https://github.com/Python-World/python-mini-projects/tree/master/projects/Random_word_from_list) |2022-04-22
 13 | [Battery notification](https://github.com/Python-World/python-mini-projects/tree/master/projects/Battery_notification) | 2022-04-22
 14 | [Calculate age](https://github.com/Python-World/python-mini-projects/tree/master/projects/Calculate_age) |2022-04-21
-15 | [Text file analysis](https://github.com/Python-World/python-mini-projects/tree/master/projects/Textfile_analysis) | [m044de](https://github.com/m044de/)
+15 | [Text file analysis](https://github.com/Python-World/python-mini-projects/tree/master/projects/Textfile_analysis) |2022-02-22
 16 | [Generate image snipets](https://github.com/Python-World/python-mini-projects/tree/master/projects/Py_carbon_clips) | [ravi chavare](https://github.com/Python-World/)
 17 | [Organize file system](https://github.com/Python-World/python-mini-projects/tree/master/projects/Organized_download_folder_with_different_categories) |2022-04-22
 18 | [Send emails](https://github.com/Python-World/python-mini-projects/tree/master/projects/Send_email_from_csv) | [Mitesh](https://github.com/Mitesh2499)
