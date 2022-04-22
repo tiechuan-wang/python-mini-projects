@@ -98,7 +98,7 @@ SR No   | Project | Author
 65 | [Test Internet Connection](https://github.com/Python-World/python-mini-projects/tree/master/projects/Internet_connection_check) | [Jacob Ogle](https://github.com/Jakeogle94)
 66 | [XKCD Comics Downloader](https://github.com/Python-World/python-mini-projects/tree/master/projects/XKCD_downloader)| [Aditya Jetely](https://github.com/AdityaJ7)
 67 | [Website Blocker And Unblocker](https://github.com/Python-World/python-mini-projects/tree/master/projects/Website_blocker)| [Phillibob55](https://github.com/Phillibob55)
-68 | [Fetch Domain Dns Record](https://github.com/Python-World/python-mini-projects/tree/master/projects/Dns_record)| [Aditya Jetely](https://github.com/AdityaJ7)
+68 | [Fetch Domain Dns Record](https://github.com/Python-World/python-mini-projects/tree/master/projects/Dns_record)| 2022-04-22
 69 | [Python-Auto-Draw](https://github.com/Python-World/python-mini-projects/tree/master/projects/Python_auto_draw)| [Tushar Nankani](https://github.com/tusharnankani)
 70 | [News Website Scraper](https://github.com/Python-World/python-mini-projects/tree/master/projects/News_website_scraper)| [pratik-choudhari](https://github.com/pratik-choudhari)
 71 | [Rock Paper Scissors Game](https://github.com/Python-World/python-mini-projects/tree/master/projects/RockPaperScissors_Game)| [Tushar Nankani](https://github.com/tusharnankani)
