@@ -51,7 +51,7 @@ SR No   | Project | Author
 18 | [Send emails](https://github.com/Python-World/python-mini-projects/tree/master/projects/Send_email_from_csv) |2022-04-22
 19 | [Get Ipaddress and Hostname of Website](https://github.com/Python-World/python-mini-projects/tree/master/projects/Find_out_hostname_and_ip_address) |2022-04-22
 20 | [Progressbar using tqdm](https://github.com/Python-World/python-mini-projects/tree/master/projects/Terminal_progress_bar_with_images_resizing) | [Mitesh](https://github.com/Mitesh2499)
-21 | [Get meta information of images](https://github.com/Python-World/python-mini-projects/tree/master/projects/Get_meta_information_of_images) | [Gaodong](https://github.com/xlgd)
+21 | [Get meta information of images](https://github.com/Python-World/python-mini-projects/tree/master/projects/Get_meta_information_of_images) |2022-04-25
 22 | [Captures Frames from video](https://github.com/Python-World/python-mini-projects/tree/master/projects/Capture_Video_Frames) | [phileinSophos](https://github.com/phileinSophos/)
 23 | [Fetch Wifi Saved Password Windows](https://github.com/Python-World/python-mini-projects/tree/master/projects/Get_wifi_password) |  [Mitesh](https://github.com/Mitesh2499)
 24 | [Save Screenshot of given Website](https://github.com/Python-World/python-mini-projects/tree/master/projects/Snapshot_of_given_website) |2022-04-20
