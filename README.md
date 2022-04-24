@@ -78,7 +78,7 @@ SR No   | Project | Author
 45 | [Check website connectivity](https://github.com/Python-World/python-mini-projects/tree/master/projects/Check_website_connectivity) |2022-04-24
 46 | [Fetch city weather information](https://github.com/Python-World/python-mini-projects/tree/master/projects/Fetch_current_weather) | [Kushal Agrawal](https://github.com/kushal98)
 47 | [Calculator App](https://github.com/Python-World/python-mini-projects/tree/master/projects/Create_calculator_app) | [Gaodong](https://github.com/xlgd)
-48 | [Merge Csv files](https://github.com/Python-World/python-mini-projects/tree/master/projects/Merge_csv_files) | [Kushal Agrawal](https://github.com/kushal98)
+48 | [Merge Csv files](https://github.com/Python-World/python-mini-projects/tree/master/projects/Merge_csv_files) |2022-04-24
 49 | [Fetch tweets and save in csv](https://github.com/Python-World/python-mini-projects/tree/master/projects/Fetch_and_store_tweets) | [Kushal Agrawal](https://github.com/kushal98)
 50 | [Language Translator using googletrans](https://github.com/Python-World/python-mini-projects/tree/master/projects/Language_translator) | [Ashiqur Rahman Tusher](https://github.com/ashikurt77)
 51 | [Split video using timeperiod](https://github.com/Python-World/python-mini-projects/tree/master/projects/Split_a_video_file_by_given_time_period) | [Chathura Nimesh](https://github.com/kana800/)
