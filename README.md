@@ -60,7 +60,7 @@ SR No   | Project | Author
 27 | [Captures screenshot at regular interval of time](https://github.com/Python-World/python-mini-projects/tree/master/projects/capture_screenshot) |2022-04-25
 28 | [Create password hash](https://github.com/Python-World/python-mini-projects/tree/master/projects/Hashing_passwords) |2022-04-25
 29 | [Encrypt file and folders](https://github.com/Python-World/python-mini-projects/tree/master/projects/Create_a_script_to_encrypt_files_and_folder) | [Gaodong](https://github.com/xlgd)
-30 | [Decimal to binary and vice versa](https://github.com/Python-World/python-mini-projects/tree/master/projects/Decimal_to_binary_convertor_and_vice_versa) | [Alan Anaya](https://github.com/alananayaa/)
+30 | [Decimal to binary and vice versa](https://github.com/Python-World/python-mini-projects/tree/master/projects/Decimal_to_binary_convertor_and_vice_versa)|2022-04-25
 31 | [Cli Based Todo Application](https://github.com/Python-World/python-mini-projects/tree/master/projects/Cli_todo) | [Audrey Yang](https://github.com/audrey-yang)
 32 | [Currency Convertor cli app](https://github.com/Python-World/python-mini-projects/tree/master/projects/Currency_converter) | [github-of-wone](https://github.com/github-of-wone/)
 33 | [Stopwatch Application](https://github.com/Python-World/python-mini-projects/tree/master/projects/Create_a_simple_stopwatch) | 2022-04-21
