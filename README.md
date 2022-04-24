@@ -56,7 +56,7 @@ SR No   | Project | Author
 23 | [Fetch Wifi Saved Password Windows](https://github.com/Python-World/python-mini-projects/tree/master/projects/Get_wifi_password) |  [Mitesh](https://github.com/Mitesh2499)
 24 | [Save Screenshot of given Website](https://github.com/Python-World/python-mini-projects/tree/master/projects/Snapshot_of_given_website) |2022-04-20
 25 | [Split files using no of lines](https://github.com/Python-World/python-mini-projects/tree/master/projects/Split_File) | [phileinSophos](https://github.com/phileinSophos/)
-26 | [Encrypt and decrypt text](https://github.com/Python-World/python-mini-projects/tree/master/projects/Encrypt_and_decrypt_text) | [Gaodong](https://github.com/xlgd)
+26 | [Encrypt and decrypt text](https://github.com/Python-World/python-mini-projects/tree/master/projects/Encrypt_and_decrypt_text) |2024-04-24
 27 | [Captures screenshot at regular interval of time](https://github.com/Python-World/python-mini-projects/tree/master/projects/capture_screenshot) | [d33pc](https://github.com/d33pc/)
 28 | [Create password hash](https://github.com/Python-World/python-mini-projects/tree/master/projects/Hashing_passwords) | [m044de](https://github.com/m044de/)
 29 | [Encrypt file and folders](https://github.com/Python-World/python-mini-projects/tree/master/projects/Create_a_script_to_encrypt_files_and_folder) | [Gaodong](https://github.com/xlgd)
