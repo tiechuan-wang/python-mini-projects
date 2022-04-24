@@ -75,7 +75,7 @@ SR No   | Project | Author
 42 | [Text To speech(mp3)](https://github.com/Python-World/python-mini-projects/tree/master/projects/Text_to_speech) | 2022-04-22
 43 | [Image format conversion](https://github.com/Python-World/python-mini-projects/tree/master/projects/convert_Imgs) | 2022-04-22
 44 | [Save random article from wikipedia](https://github.com/Python-World/python-mini-projects/tree/master/projects/Random_Wikipedia_Article) | [Rakshit Puri](https://github.com/skate1512)
-45 | [Check website connectivity](https://github.com/Python-World/python-mini-projects/tree/master/projects/Check_website_connectivity) | [Shiv Thakur](https://github.com/ShivSt)
+45 | [Check website connectivity](https://github.com/Python-World/python-mini-projects/tree/master/projects/Check_website_connectivity) |2022-04-24
 46 | [Fetch city weather information](https://github.com/Python-World/python-mini-projects/tree/master/projects/Fetch_current_weather) | [Kushal Agrawal](https://github.com/kushal98)
 47 | [Calculator App](https://github.com/Python-World/python-mini-projects/tree/master/projects/Create_calculator_app) | [Gaodong](https://github.com/xlgd)
 48 | [Merge Csv files](https://github.com/Python-World/python-mini-projects/tree/master/projects/Merge_csv_files) | [Kushal Agrawal](https://github.com/kushal98)
