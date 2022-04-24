@@ -125,7 +125,7 @@ SR No   | Project | Author
 92 | [Reduce Image Size](https://github.com/Python-World/python-mini-projects/tree/master/projects/Reduce_image_file_size)| [Vipul Verma](https://github.com/VIPverma01)
 93 | [Easy Video Player](https://github.com/Python-World/python-mini-projects/tree/master/projects/EasyVideoPlayer)| [Bartu Yaman](https://github.com/brtymn)
 94 | [GeeksforGeeks Article downloader](https://github.com/Python-World/python-mini-projects/tree/master/projects/download%20GeeksForGeeks%20articles)| [Shiv Thakur](https://github.com/ShivSt)
-95 | [PDF to Text](https://github.com/Python-World/python-mini-projects/tree/master/projects/convert%20pdf%20to%20text)| [pi1814](https://github.com/pi1814)
+95 | [PDF to Text](https://github.com/Python-World/python-mini-projects/tree/master/projects/convert%20pdf%20to%20text)|2022-04-24
 96 | [Unstructured Supplemenrary Service Data](https://github.com/Python-World/python-mini-projects/tree/master/projects/Unstructured%20Supplemenrary%20%20Service%20Data)| [ART](https://github.com/Tomyzon1728)
 97 | [Duplicate Files remover](https://github.com/Python-World/python-mini-projects/tree/master/projects/Duplicate%20files%20remover)| [Anandha Krishnan Aji](https://github.com/anandhakrishnanaji)
 98 | [PNG to ICO converter](https://github.com/Python-World/python-mini-projects/tree/master/projects/convert_png_images_to_ico_format)|2022-04-21
