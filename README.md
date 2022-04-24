@@ -91,7 +91,7 @@ SR No   | Project | Author
 58 | [Fetch Open Port](https://github.com/Python-World/python-mini-projects/tree/master/projects/Fetch_open_ports) | [Kushal Agrawal](https://github.com/kushal98)
 59 | [Convert Numbers To Words](https://github.com/Python-World/python-mini-projects/tree/master/projects/Convert_numbers_to_word) | [Niraj Shrestha](https://github.com/CrestNiraj12)
 60 | [Restart and Shutdown System](https://github.com/Python-World/python-mini-projects/tree/master/projects/Shutdown_or_restart_your_device) | [Phillibob55](https://github.com/Phillibob55)
-61 | [Check website connectivity](https://github.com/Python-World/python-mini-projects/tree/master/projects/Check_website_connectivity) | [Shiv Thakur](https://github.com/ShivSt)
+61 | [Check website connectivity](https://github.com/Python-World/python-mini-projects/tree/master/projects/Check_website_connectivity) |2022-04-24
 62 | [Digital clock using tkinter](https://github.com/Python-World/python-mini-projects/tree/master/projects/Digital_clock) | [Aditya Jetely](https://github.com/adityaj7)
 63 | [Covert Image To Pdf](https://github.com/Python-World/python-mini-projects/tree/master/projects/Convert_a_image_to_pdf) |2022-04-22
 64 | [Store emails in csv file](https://github.com/Python-World/python-mini-projects/tree/master/projects/Store_emails_in_csv) | [Shiv Thakur](https://github.com/ShivSt)
