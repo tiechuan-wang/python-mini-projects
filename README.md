@@ -122,7 +122,7 @@ SR No   | Project | Author
 89 | [Check Leap Year](https://github.com/Python-World/python-mini-projects/tree/master/projects/Leap_Year_Checker)| [Hariom Vyas](https://github.com/Hariom1509)
 90 | [Scrape Medium Articles](https://github.com/Python-World/python-mini-projects/tree/master/projects/Scraping%20Medium%20Articles)| [Naman Shah](https://github.com/namanshah01)
 91 | [HackerNews Scrapper](https://github.com/Python-World/python-mini-projects/tree/master/projects/Scrape_Hacker_News)| [Javokhirbek](https://github.com/leader2one)
-92 | [Reduce Image Size](https://github.com/Python-World/python-mini-projects/tree/master/projects/Reduce_image_file_size)| [Vipul Verma](https://github.com/VIPverma01)
+92 | [Reduce Image Size](https://github.com/Python-World/python-mini-projects/tree/master/projects/Reduce_image_file_size)|2022-04-24 OpenCV
 93 | [Easy Video Player](https://github.com/Python-World/python-mini-projects/tree/master/projects/EasyVideoPlayer)| [Bartu Yaman](https://github.com/brtymn)
 94 | [GeeksforGeeks Article downloader](https://github.com/Python-World/python-mini-projects/tree/master/projects/download%20GeeksForGeeks%20articles)| [Shiv Thakur](https://github.com/ShivSt)
 95 | [PDF to Text](https://github.com/Python-World/python-mini-projects/tree/master/projects/convert%20pdf%20to%20text)|2022-04-24
