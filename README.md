@@ -85,7 +85,7 @@ SR No   | Project | Author
 52 | [Fetch unique words from file](https://github.com/Python-World/python-mini-projects/tree/master/projects/Unique_words_in_a_file) | [Rakshit Puri](https://github.com/skate1512)
 53 | [Speech to text converter](https://github.com/Python-World/python-mini-projects/tree/master/projects/Speech_to_text) | ERROR pip install pyaudio
 54 | [Set Random Wallpaper](https://github.com/Python-World/python-mini-projects/tree/master/projects/Write_a_script_to_download_a_random_image_from_unsplash_and_set_it_as_wallpaper) | [Chathura Nimesh](https://github.com/kana800/)
-55 | [Find Dominant color from image](https://github.com/Python-World/python-mini-projects/tree/master/projects/Dominant_color) | [Mitesh](https://github.com/Mitesh2499)
+55 | [Find Dominant color from image](https://github.com/Python-World/python-mini-projects/tree/master/projects/Dominant_color) |2022-04-24
 56 | [Ascii art](https://github.com/Python-World/python-mini-projects/tree/master/projects/Ascii_art) | [Shiny Akash](https://github.com/Shiny-Akash)
 57 | [Merge Pdf Files](https://github.com/Python-World/python-mini-projects/tree/master/projects/Merge_pdfs) | [ShivSt](https://github.com/ShivSt)
 58 | [Fetch Open Port](https://github.com/Python-World/python-mini-projects/tree/master/projects/Fetch_open_ports) | [Kushal Agrawal](https://github.com/kushal98)
