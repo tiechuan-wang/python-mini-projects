@@ -40,7 +40,7 @@ SR No   | Project | Author
 7 | [Todo App With Flask](https://github.com/Python-World/python-mini-projects/tree/master/projects/Todo_app) | [Mitesh](https://github.com/Mitesh2499)
 8 | [Add Watermark on Images](https://github.com/Python-World/python-mini-projects/tree/master/projects/Image_watermark) |2022-04-21
 9 | [WishList App Using Django](https://github.com/Python-World/python-mini-projects/tree/master/projects/WishList) | [Ravi Chavare](https://github.com/chavarera)
-10 | [Split Folders into Subfolders](https://github.com/Python-World/python-mini-projects/tree/master/projects/Split_folder_into_subfolders) | [Ravi Chavare](https://github.com/chavarera)
+10 | [Split Folders into Subfolders](https://github.com/Python-World/python-mini-projects/tree/master/projects/Split_folder_into_subfolders) |2022-04-24
 11 | [Download bulk images](https://github.com/Python-World/python-mini-projects/tree/master/projects/Download_images_from_website) | [Mitesh](https://github.com/Mitesh2499)
 12 | [Random word from file](https://github.com/Python-World/python-mini-projects/tree/master/projects/Random_word_from_list) |2022-04-22
 13 | [Battery notification](https://github.com/Python-World/python-mini-projects/tree/master/projects/Battery_notification) | 2022-04-22
