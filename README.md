@@ -58,7 +58,7 @@ SR No   | Project | Author
 25 | [Split files using no of lines](https://github.com/Python-World/python-mini-projects/tree/master/projects/Split_File) | [phileinSophos](https://github.com/phileinSophos/)
 26 | [Encrypt and decrypt text](https://github.com/Python-World/python-mini-projects/tree/master/projects/Encrypt_and_decrypt_text) |2024-04-24
 27 | [Captures screenshot at regular interval of time](https://github.com/Python-World/python-mini-projects/tree/master/projects/capture_screenshot) |2022-04-25
-28 | [Create password hash](https://github.com/Python-World/python-mini-projects/tree/master/projects/Hashing_passwords) | [m044de](https://github.com/m044de/)
+28 | [Create password hash](https://github.com/Python-World/python-mini-projects/tree/master/projects/Hashing_passwords) |2022-04-25
 29 | [Encrypt file and folders](https://github.com/Python-World/python-mini-projects/tree/master/projects/Create_a_script_to_encrypt_files_and_folder) | [Gaodong](https://github.com/xlgd)
 30 | [Decimal to binary and vice versa](https://github.com/Python-World/python-mini-projects/tree/master/projects/Decimal_to_binary_convertor_and_vice_versa) | [Alan Anaya](https://github.com/alananayaa/)
 31 | [Cli Based Todo Application](https://github.com/Python-World/python-mini-projects/tree/master/projects/Cli_todo) | [Audrey Yang](https://github.com/audrey-yang)
