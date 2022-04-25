@@ -66,7 +66,7 @@ SR No   | Project | Author
 33 | [Stopwatch Application](https://github.com/Python-World/python-mini-projects/tree/master/projects/Create_a_simple_stopwatch) | 2022-04-21
 34 | [CLI Proxy Tester](https://github.com/Python-World/python-mini-projects/tree/master/projects/cli_proxy_tester) | [Ingo Kleiber](https://github.com/IngoKl)
 36 | [Compress file and folders](https://github.com/Python-World/python-mini-projects/tree/master/projects/Write_script_to_compress_folder_and_files) | [Gaodong](https://github.com/xlgd)
-37 | [Find IMDB movie ratings](https://github.com/Python-World/python-mini-projects/tree/master/projects/Find_imdb_rating) | [ShivSt](https://github.com/ShivSt)
+37 | [Find IMDB movie ratings](https://github.com/Python-World/python-mini-projects/tree/master/projects/Find_imdb_rating) |2022-04-25
 38 | [Convert dictionary to python object](https://github.com/Python-World/python-mini-projects/tree/master/projects/convert_dictionary_to_python_object) | [Varun-22](https://github.com/Varun-22)
 39 | [Move files to alphabetically arranged folders](https://github.com/Python-World/python-mini-projects/tree/master/projects/Write_script_to_move_files_into_alphabetically_ordered_folder) | [Chathura Nimesh](https://github.com/kana800/)
 40 | [Scrape Youtube video comment](https://github.com/Python-World/python-mini-projects/tree/master/projects/Web_scraping_a_youtube_comment) | [Saicharan67](https://github.com/Saicharan67)
